@@ -1,0 +1,6 @@
+name: MinecraftScalaTemplate
+version: @version@
+main: chiharu.hagihara.minecraftscalatemplate.ScalaPractice
+api-version: 1.16
+commands:
+  scala:
